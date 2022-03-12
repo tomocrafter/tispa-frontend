@@ -4,7 +4,7 @@
 
 Tispa = Tiscord (Offline) Party の略です。
 このレポジトリはオフ会で使用するしおりを作成/編集できる Web アプリケーションのフロントエンド部分のコードです。
-バックエンドは[こちら](https://github.com/tomocrafter/tispa/)
+バックエンドは[こちら](https://github.com/tomocrafter/tispa-backend/)
 
 ## スタック
 
